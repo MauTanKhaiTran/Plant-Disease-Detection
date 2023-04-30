@@ -21,4 +21,4 @@ conda env create -f environment.yml
 conda activate test_plant_disease_detection
 ```
 
-This will allows us to run [[image_classification/Final_Notebook.ipynb]]
+This will allows us to run this [Notebook](image_classification/Final_Notebook.ipynb).
